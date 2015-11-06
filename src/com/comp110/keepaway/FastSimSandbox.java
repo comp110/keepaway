@@ -5,7 +5,7 @@ package com.comp110.keepaway;
  * can be obtained quickly. If you want to stress test a bot, do something with genetic algorithms
  * or machine learning, or whatever... enjoy.
  */
-public class SimSandbox {
+public class FastSimSandbox {
 
   public static void main(String[] args) {
     
