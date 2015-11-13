@@ -3,7 +3,8 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="vendor/dyn4j-3.2.0.jar" sourcepath="vendor/dyn4j-3.2.0-sources.jar"/>
-	<classpathentry kind="lib" path="vendor/HACK110KeepAway-alpha.jar"/>
 	<classpathentry kind="lib" path="vendor/bnewton1.TotBot.jar"/>
+	<classpathentry kind="lib" path="vendor/HACK110KeepAway-alpha.jar"/>
+	<classpathentry kind="lib" path="vendor/krisj.CPU_HAT.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
